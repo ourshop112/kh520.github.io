@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="website.com" resolutions="1x" timestamp="1593527607825">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1593540617052">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="live-tv.css" crc="3957039761" ref="live-tv"/>
-    <file name="about-us.css" crc="164546998" ref="about-us"/>
-    <file name="index.css" crc="218569397" ref="index"/>
-    <file name="news.css" crc="43727603" ref="news"/>
+    <file name="about-us.css" crc="210825582" ref="about-us"/>
+    <file name="index.css" crc="3765700960" ref="index"/>
+    <file name="news.css" crc="4265220858" ref="news"/>
+    <file name="live-tv.css" crc="341037974" ref="live-tv"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live-tv:about-us:news"/>
@@ -60,8 +60,8 @@
       <caption webpage="news" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="369223248" seo="true" mt="1593516306023" redirect="true"/>
-  <file name="live-tv.html" crc="188218334" seo="true" mt="1593508126365" redirect="true"/>
-  <file name="about-us.html" crc="257179237" seo="true" mt="1593527566549" redirect="true"/>
-  <file name="news.html" crc="396650410" seo="true" mt="1593508063910" redirect="true"/>
+  <file name="index.html" crc="212652188" seo="true" mt="1593516306023" redirect="true"/>
+  <file name="live-tv.html" crc="85436576" seo="true" mt="1593508126365" redirect="true"/>
+  <file name="about-us.html" crc="372267470" seo="true" mt="1593540572346" redirect="true"/>
+  <file name="news.html" crc="280929557" seo="true" mt="1593538214162" redirect="true"/>
 </manifest>
