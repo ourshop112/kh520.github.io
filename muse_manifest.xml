@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="khashik1200.com" resolutions="1x" timestamp="1593518725076">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="website.com" resolutions="1x" timestamp="1593527607825">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="live-tv.css" crc="4278130599" ref="live-tv"/>
-    <file name="about-us.css" crc="58192002" ref="about-us"/>
-    <file name="index.css" crc="363373838" ref="index"/>
-    <file name="news.css" crc="273143304" ref="news"/>
+    <file name="live-tv.css" crc="3957039761" ref="live-tv"/>
+    <file name="about-us.css" crc="164546998" ref="about-us"/>
+    <file name="index.css" crc="218569397" ref="index"/>
+    <file name="news.css" crc="43727603" ref="news"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live-tv:about-us:news"/>
@@ -20,9 +20,10 @@
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:live-tv:about-us:news"/>
     <file name="require.js" crc="4157109226" ref="index:live-tv:about-us:news"/>
-    <file name="form_check.php" crc="62300408" ref="about-us"/>
-    <file name="form_process.php" crc="91775217" ref="about-us"/>
-    <file name="form-u6093.php" crc="3909070329" ref="about-us"/>
+    <file name="form_check.php" crc="147359589" ref="about-us"/>
+    <file name="form_throttle.php" crc="93986428" ref="about-us"/>
+    <file name="form_process.php" crc="3851993751" ref="about-us"/>
+    <file name="form-u6093.php" crc="406095291" ref="about-us"/>
   </folder>
   <folder name="images">
     <file name="picsart_06-27-055410-u1412-fr.jpg" crc="303105014" ref="index:live-tv:about-us:news"/>
@@ -59,8 +60,8 @@
       <caption webpage="news" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4228412454" seo="true" mt="1593516306023" redirect="true"/>
-  <file name="live-tv.html" crc="153703017" seo="true" mt="1593508126365" redirect="true"/>
-  <file name="about-us.html" crc="3828485567" seo="true" mt="1593516391882" redirect="true"/>
-  <file name="news.html" crc="4218887414" seo="true" mt="1593508063910" redirect="true"/>
+  <file name="index.html" crc="369223248" seo="true" mt="1593516306023" redirect="true"/>
+  <file name="live-tv.html" crc="188218334" seo="true" mt="1593508126365" redirect="true"/>
+  <file name="about-us.html" crc="257179237" seo="true" mt="1593527566549" redirect="true"/>
+  <file name="news.html" crc="396650410" seo="true" mt="1593508063910" redirect="true"/>
 </manifest>
