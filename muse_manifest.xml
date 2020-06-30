@@ -1,0 +1,66 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="khashik1200.com" resolutions="1x" timestamp="1593518725076">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="live-tv.css" crc="4278130599" ref="live-tv"/>
+    <file name="about-us.css" crc="58192002" ref="about-us"/>
+    <file name="index.css" crc="363373838" ref="index"/>
+    <file name="news.css" crc="273143304" ref="news"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live-tv:about-us:news"/>
+    <file name="museutils.js" crc="3803043152" ref="index:live-tv:about-us:news"/>
+    <file name="whatinput.js" crc="86476730" ref="index:live-tv:about-us:news"/>
+    <file name="museconfig.js" crc="380897831" ref="index:live-tv:about-us:news"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:live-tv:about-us:news"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:live-tv:about-us:news"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:live-tv:about-us:news"/>
+    <file name="webpro.js" crc="242022427" ref="index:about-us"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:live-tv:about-us:news"/>
+    <file name="require.js" crc="4157109226" ref="index:live-tv:about-us:news"/>
+    <file name="form_check.php" crc="62300408" ref="about-us"/>
+    <file name="form_process.php" crc="91775217" ref="about-us"/>
+    <file name="form-u6093.php" crc="3909070329" ref="about-us"/>
+  </folder>
+  <folder name="images">
+    <file name="picsart_06-27-055410-u1412-fr.jpg" crc="303105014" ref="index:live-tv:about-us:news"/>
+    <file name="1091441c84e9d3da00990c6fdc42e89d.jpg" crc="161385602" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9cfc76c8672ad39eb35b2076026e313e.jpg" crc="336875958" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed.jpg" crc="28413168" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="road-marking-cloudy-wallpaper-1920x1080-wallpaper.jpg" crc="3915731000" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6090-11.png" crc="88853867" ref="index"/>
+    <file name="সময়-টিভি.jpg" crc="114272087" ref="live-tv">
+      <caption webpage="live-tv" alt=""/>
+    </file>
+    <file name="gtvbangladeshlogo.jpg" crc="415975923" ref="live-tv">
+      <caption webpage="live-tv" alt=""/>
+    </file>
+    <file name="marketplace-lending-news.jpg" crc="3921829664" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="gty.jpg" crc="90499252" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="the-daily-samakal.jpg" crc="374789701" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="unnamed2.jpg" crc="65229735" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4228412454" seo="true" mt="1593516306023" redirect="true"/>
+  <file name="live-tv.html" crc="153703017" seo="true" mt="1593508126365" redirect="true"/>
+  <file name="about-us.html" crc="3828485567" seo="true" mt="1593516391882" redirect="true"/>
+  <file name="news.html" crc="4218887414" seo="true" mt="1593508063910" redirect="true"/>
+</manifest>
