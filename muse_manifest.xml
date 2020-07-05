@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1593782843342">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1593940996699">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="300237132" ref="index"/>
-    <file name="about-us.css" crc="3926146082" ref="about-us"/>
+    <file name="about-us.css" crc="171573659" ref="about-us"/>
     <file name="news.css" crc="4198353172" ref="news"/>
+    <file name="index.css" crc="300237132" ref="index"/>
     <file name="live-tv.css" crc="525172260" ref="live-tv"/>
   </folder>
   <folder name="scripts">
@@ -65,6 +65,6 @@
   </folder>
   <file name="index.html" crc="3758999402" seo="true" mt="1593782228543" redirect="true"/>
   <file name="live-tv.html" crc="431575992" seo="true" mt="1593508126365" redirect="true"/>
-  <file name="about-us.html" crc="4015553634" seo="true" mt="1593782772853" redirect="true"/>
+  <file name="about-us.html" crc="4061171489" seo="true" mt="1593782772853" redirect="true"/>
   <file name="news.html" crc="3946576976" seo="true" mt="1593508063910" redirect="true"/>
 </manifest>
