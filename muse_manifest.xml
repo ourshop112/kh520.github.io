@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1593940996699">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kh.com" resolutions="1x" timestamp="1593957597792">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="about-us.css" crc="171573659" ref="about-us"/>
-    <file name="news.css" crc="4198353172" ref="news"/>
-    <file name="index.css" crc="300237132" ref="index"/>
-    <file name="live-tv.css" crc="525172260" ref="live-tv"/>
+    <file name="news.css" crc="321990653" ref="news"/>
+    <file name="index.css" crc="4132289697" ref="index"/>
+    <file name="about-us.css" crc="4252371336" ref="about-us"/>
+    <file name="live-tv.css" crc="492760520" ref="live-tv"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live-tv:about-us:news"/>
     <file name="museutils.js" crc="3803043152" ref="index:live-tv:about-us:news"/>
     <file name="whatinput.js" crc="86476730" ref="index:live-tv:about-us:news"/>
     <file name="museconfig.js" crc="4153641093" ref="index:live-tv:about-us:news"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:live-tv:about-us:news"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:live-tv:about-us:news"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:live-tv:about-us:news"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:live-tv:news"/>
     <file name="webpro.js" crc="242022427" ref="index:about-us"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
@@ -26,7 +26,6 @@
     <file name="form-u6413.php" crc="377841757" ref="about-us"/>
   </folder>
   <folder name="images">
-    <file name="picsart_06-27-055410-u1412-fr.jpg" crc="303105014" ref="index:live-tv:about-us:news"/>
     <file name="1091441c84e9d3da00990c6fdc42e89d.jpg" crc="161385602" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -42,6 +41,9 @@
     </file>
     <file name="u6090-11.png" crc="3901423202" ref="index"/>
     <file name="thumb-1920-887471.jpg" crc="4171269595" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="heart.png" crc="117585526" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="সময়-টিভি.jpg" crc="114272087" ref="live-tv">
@@ -63,8 +65,8 @@
       <caption webpage="news" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3758999402" seo="true" mt="1593782228543" redirect="true"/>
-  <file name="live-tv.html" crc="431575992" seo="true" mt="1593508126365" redirect="true"/>
-  <file name="about-us.html" crc="4061171489" seo="true" mt="1593782772853" redirect="true"/>
-  <file name="news.html" crc="3946576976" seo="true" mt="1593508063910" redirect="true"/>
+  <file name="index.html" crc="4267069169" seo="true" mt="1593957340111" redirect="true"/>
+  <file name="live-tv.html" crc="161465377" seo="true" mt="1593955647675" redirect="true"/>
+  <file name="about-us.html" crc="231432728" seo="true" mt="1593955665790" redirect="true"/>
+  <file name="news.html" crc="3790963517" seo="true" mt="1593955639910" redirect="true"/>
 </manifest>
